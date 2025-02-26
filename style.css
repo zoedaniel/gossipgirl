@@ -1,0 +1,16 @@
+h1 {
+  text-transform: uppercase;
+}
+
+h4 {
+  color: dark pink;
+}
+
+h5 {
+  color: red;
+  font-family: fantasy;
+}
+
+#heading {
+  color: pink;
+}
